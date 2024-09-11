@@ -1,5 +1,4 @@
-# Mt-Info
-This module calculates basic mountain parameters such as average mountain length, width, elevation, Moho depth and erosion rate for three modern collisional mountains, the Himalaya-Tibetan plateau, Alps and Zagros. The details to calculate these parameters are provided in the Supplementary Information of Zhu et al. (2024, in review).
+The details to calculate these parameters are provided in the Supplementary Information of Zhu et al. (2024, in review).
 
  # Datasets
 - [Natural Earth’s physical vectors](https://www.naturalearthdata.com/downloads/50m-physical-vectors/50m-physical-labels/) (version 4.1.0)
